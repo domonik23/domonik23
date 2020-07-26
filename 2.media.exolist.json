@@ -3,10 +3,10 @@
     "name": "TV Malaysia Man Test Dulu",
     "samples": [
       {
-        "name": "TV2a",
+        "name": "Tv2 test",
         "uri":"http://1.9.62.158:80/PLTV/88888888/224/3221227490/3221227490.mpd",
-        "drm_scheme": "widevine"
-        "drm_license_url":
+        "drm_scheme": "widevine",
+         "drm_license_url":
 "http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
       },
       {
