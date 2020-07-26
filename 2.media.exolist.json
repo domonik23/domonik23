@@ -29,6 +29,13 @@
 "http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
       },
       {
+        "name": "fx test",
+        "uri":"http://1.9.62.158:80/PLTV/88888888/224/3221227571/3221227571.mpd",
+        "drm_scheme": "widevine",
+         "drm_license_url":
+"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
+      },
+      {
         "name": "TV2",
         "uri": "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
